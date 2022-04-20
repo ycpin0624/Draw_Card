@@ -1,4 +1,4 @@
-# draweb_app
+# draweb_app 抽卡網頁
 
 ## Project setup
 ```
